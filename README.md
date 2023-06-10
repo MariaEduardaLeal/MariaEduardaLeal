@@ -12,7 +12,7 @@ Bem vindo ao meu GitHub
 
 <li> 😄 Estou começando a estudar na área de programação </li><br>
 
-<li>💻 Atualmente estou estudando HTML, CSS e JavaScript </li><br>
+<li>💻 Atualmente estou estudando o framework de PHP Laravel </li><br>
 
 <li> 📚🎵 Nas horas vagas gosto de ler e escutar música </li><br>
 
