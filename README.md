@@ -40,7 +40,7 @@ Bem vindo ao meu GitHub
   <a href="https://www.linkedin.com/in/maria-eduarda-de-medeiros-leal-716601235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <br><p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyberfn}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MariaEduardaLeal}/count.svg" /></p> 
 <br>
 </div>
 
