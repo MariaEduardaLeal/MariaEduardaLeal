@@ -16,11 +16,11 @@ Bem vindo ao meu GitHub
 
 <li> 📚🎵 Nas horas vagas gosto de ler e escutar música </li><br>
 
-<div>
- <a href="https://github.com/MariaEduardaLeal">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaLeal&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaLeal&show_icons=true&theme=radical"/>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaEduardaLeal&show_icons=true&theme=midnight-purple" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaLeal&layout=compact&langs_count=20&theme=midnight-purple" height="220"/>
+</p>
 
 <h1>                                                    </h1>
 
