@@ -23,7 +23,7 @@ Sou uma desenvolvedora que não se contenta apenas em "fazer o código funcionar
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | `PHP`, `JavaScript`, `Java`, `Python`, `SQL` |
-| **Frameworks/Libs** | **Laravel** (Principal), `JQuery` | `Three.js` | 
+| **Frameworks/Libs** | **Laravel** (Principal), `JQuery` , `Three.js` | 
 | **Database** | `MySQL`, `MariaDB` |
 | **Ferramentas** | `Git`, `Composer`, `NPM`, `VS Code` |
 
