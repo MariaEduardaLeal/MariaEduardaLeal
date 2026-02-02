@@ -1,60 +1,52 @@
 # 👩‍💻 Maria Eduarda de Medeiros Leal (Duda)
-**Full Stack Developer | PHP & Laravel Specialist | Tech Enthusiast**
+> Full Stack Developer | Laravel Specialist & 3D Web Enthusiast
 
 ---
 
-### 🌟 Sobre Mim
-Minha jornada na tecnologia começou aos 15 anos com **Arduino**, onde descobri a paixão por transformar lógica em realidade física. Hoje, foco essa energia no ecossistema de desenvolvimento web. 
+### 🌟 A Engenharia por trás do Código
+Minha trajetória começou no **hardware**, moldando meus primeiros raciocínios lógicos com **Arduino** aos 15 anos. Essa base "raiz" me deu a disciplina necessária para não apenas escrever código, mas projetar sistemas. 
 
-Sou uma desenvolvedora que não se contenta apenas em "fazer o código funcionar"; busco entender o porquê de cada função. Atualmente, dedico meus estudos ao **Framework Laravel**, explorando desde rotas e controllers até Eloquent ORM e Blade engines, sempre aplicando as melhores práticas de desenvolvimento.
-
----
-
-### 🚀 O que estou fazendo agora?
-- 🔭 **Foco Atual:** Especialização em **Laravel** para criação de APIs robustas e aplicações web dinâmicas.
-- ⚙️ **Conhecimentos Sólidos:** Desenvolvimento em **PHP puro**, manipulação de bancos de dados **MySQL** e estruturação de front-end com **HTML/CSS/JS**.
-- 🧠 **Aprendizado Contínuo:** Evoluindo em lógica de programação e arquitetura de software (MVC).
-- 🎨 **Interesses:** Gosto de interfaces limpas (UI/UX) e código bem documentado.
+Hoje, sou apaixonada por abrir a "caixa preta" dos frameworks. No **Laravel**, meu foco está na elegância do código e na robustez da arquitetura MVC, garantindo que o back-end seja tão performático quanto o front-end é interativo.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Minha Caixa de Ferramentas
 
-| Categoria | Tecnologias |
+| Categoria | Stack Tecnológica |
 | :--- | :--- |
-| **Linguagens** | `PHP`, `JavaScript`, `Java`, `Python`, `SQL` |
-| **Frameworks/Libs** | **Laravel** (Principal), `JQuery` , `Three.js` | 
-| **Database** | `MySQL`, `MariaDB` |
-| **Ferramentas** | `Git`, `Composer`, `NPM`, `VS Code` |
+| **Back-end & Core** | `PHP (Especialista Laravel)`, `Java`, `Python`, `C++ (Arduino Logic)` |
+| **Front-end & Visual** | `JavaScript (ES6+)`, `Three.js` 🌐, `jQuery`, `HTML5/CSS3` |
+| **Data Architecture** | `MySQL`, `MariaDB`, `Eloquent ORM`, `Query Optimization` |
+| **Workflow & Ops** | `Git/GitHub`, `Composer`, `NPM`, `Docker`, `Blade Engine` |
 
 ---
 
-### 📊 Github Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaEduardaLeal&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaLeal&layout=compact&langs_count=10&theme=midnight-purple&border_radius=10" height="195"/>
-</p>
+### 🚀 Desafios Atuais & Interesses
+- ⚡ **Performance no Laravel:** Otimizando aplicações e explorando as profundezas do ecossistema PHP.
+- 🧊 **Experiência Imersiva:** Criando interfaces 3D no navegador com **Three.js** para fugir do "comum".
+- 🧩 **Lógica Pura:** Resolver problemas complexos de estrutura de dados é meu hobby técnico favorito.
+- 🎨 **UI/UX:** Defensora do código limpo e interfaces que fazem sentido para o usuário final.
+
+
+### 📚 Além das Telas
+Quando não estou depurando código ou configurando uma rota:
+* **Reading Time:** Busco em livros a criatividade que aplico no desenvolvimento.
+* **Soundtrack:** Música é essencial. Do Lo-fi para focar ao Rock para codar.
+* **Maker Spirit:** O interesse pelo Arduino ainda vive em cada projeto que exige solução de problemas do zero.
 
 ---
 
-### 🎵 Além do Código
-Nem tudo é `syntax error`. Nas minhas horas vagas:
-- 📖 Sou uma leitora ávida (sempre buscando novas perspectivas).
-- 🎧 A música é o meu combustível para o "Deep Work" ou para relaxar.
-
----
-
-### 🤝 Vamos nos conectar?
-Procuro sempre trocar experiências com outros devs. Se você quer conversar sobre Laravel, Arduino ou apenas compartilhar uma playlist:
+### 🤝 Conecte-se Comigo
+Estou sempre aberta a discussões técnicas, projetos Open Source ou uma boa conversa sobre o futuro da web.
 
 <div align="left">
-  <a href="mailto:eduardaleal753@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-de-medeiros-leal-716601235/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:eduardaleal753@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-de-medeiros-leal-716601235/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 <br>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/MariaEduardaLeal/count.svg" />
-  <br><i>Obrigada por visitar meu perfil!</i>
+  <br>🚀 <i>Construindo o amanhã, uma linha de código por vez.</i>
 </p>
